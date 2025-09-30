@@ -7,6 +7,6 @@
 - Webサーバーがリクエストを受け取ってからレスポンスを返すまでの裏側の仕組みExpress.jsのような便利なフレームワークを使わず、Node.jsに標準で備わっている機能だけでサーバーを構築。
 
 ## 各コードとその振り返り
-- [HTML]()
-- [CSS]()
-- [JavaScript]()
+- [HTML](https://github.com/kaneda05/create-app/blob/main/01_greet-app/feedback/html.md)
+- [CSS](https://github.com/kaneda05/create-app/blob/main/01_greet-app/feedback/css.md)
+- [JavaScript](https://github.com/kaneda05/create-app/blob/main/01_greet-app/feedback/javascript.md)
